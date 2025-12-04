@@ -40,7 +40,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn flask joblib
 🔹 2. Prepare (Clean) the Data
 This generates cleaned CSV files used for model training.
 
-bash
+```bash
 Copy code
 python prepare_data.py
 🔹 3. Train All Three Models
